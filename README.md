@@ -1,1 +1,1 @@
-# pytorch_project
+# MNIST
